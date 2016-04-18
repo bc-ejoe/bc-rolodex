@@ -1,6 +1,6 @@
 {
   "name": "bc-rolodex",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "BigCommerce Test Tool",
   "main": "src/main.js",
   "engines": {
