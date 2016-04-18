@@ -14,7 +14,11 @@
     "compile": "rm -rf dist && mkdir dist && babel -d dist/ src/"
   },
   "author": "Mick Ryan",
-  "license": "ISC",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mickr/bc-rolodex.git"
+  },
   "dependencies": {
     "axios": "^0.9.1",
     "bluebird": "^3.3.5",
