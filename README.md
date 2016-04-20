@@ -27,6 +27,13 @@ Usage: rolodex [options]
 
 `rolodex -s STORE_URL -u API_USER_NAME -a API_KEY -t brands -n 2 -p`
 
+### Todo
+* Flush all rolodex entities from the store
+    * All
+    * Products
+    * Brands
+    * Categories
+
 ### Licence
 
 USE AT YOUR OWN RISK, THERE ARE NO WARRANTIES OR SUPPORT FOR THIS SOFTWARE.
